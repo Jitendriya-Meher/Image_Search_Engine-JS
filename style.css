@@ -84,3 +84,10 @@ form button{
     object-fit: cover;
     border-radius: 5px;
 }
+
+.me{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    color: #ffffff22;
+}
